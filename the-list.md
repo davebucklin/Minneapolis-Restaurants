@@ -17,7 +17,7 @@
   * Tiny Diner
   * Gigi's Cafe
 
-**Blue Plate Restaurant Group **
+**Blue Plate Restaurant Group**
 
   * The Freehouse
   * The Lowry
@@ -28,7 +28,7 @@
   * Groveland Tap
   * Highland Grill
 
-**Parasole Restaurant Holdings **
+**Parasole Restaurant Holdings**
 
   * Manny's Steakhouse
   * Mozza Mia
@@ -40,7 +40,7 @@
   * Good Earth
   * Libertine
 
-**Hector Ruiz **
+**Hector Ruiz**
 
   * La Fresca
   * Cafe Ena
@@ -81,7 +81,7 @@
   * Terzo Vino Bar
   * Cucina Italiana
 
-**Landry's Inc. (national) **
+**Landry's Inc. (national)**
 
   * McCormick and Schmick's
   * The Oceanaire
@@ -97,7 +97,7 @@
   * Annie's Parlour
   * Runyons
 
-**Landon Schoenefeld **
+**Landon Schoenefeld**
 
   * Haute Dish
   * Nighthawks
@@ -158,12 +158,12 @@
   * Ginger Hop
   * Chiang Mai Thai
 
-**Theros Restaurante Group **
+**Theros Restaurante Group**
 
   * St. Clair Broiler
   * Rudolph's
 
-**Matty O'Reilly **
+**Matty O'Reilly**
 
   * Aster Cafe
   * Republic
@@ -181,7 +181,7 @@
   * Travail
   * Pig Ate My Pizza
 
-**Nick Rancone/Thomas Boemer **
+**Nick Rancone/Thomas Boemer**
 
   * Corner Table
   * Revival
