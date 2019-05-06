@@ -3,8 +3,6 @@
   * D'Amico & Sons
   * Campiello
   * Lurcat
-  * Gather
-  * Parma 820
 
 **Kim Bartmann**
 
@@ -13,9 +11,13 @@
   * Red Stag Supperclub
   * Pat's Tap
   * Bread and Pickle
-  * The Third Bird
+  * The Bird
   * Tiny Diner
   * Gigi's Cafe
+  * Book Club
+  * Trapese
+  * Kyatchi
+  * Nighthawks
 
 **Blue Plate Restaurant Group**
 
@@ -27,10 +29,13 @@
   * Edina Grill
   * Groveland Tap
   * Highland Grill
+  * Mercury Dining Room and Rail
 
 **Parasole Restaurant Holdings**
 
   * Manny's Steakhouse
+  * The Living Room
+  * Prohibition
   * Mozza Mia
   * Burger Jones
   * Chino Latino
@@ -38,11 +43,14 @@
   * Pittsburgh Blue Steakhouse
   * Muffuletta
   * Good Earth
+  * Field Day
   * Libertine
 
 **Hector Ruiz**
 
   * La Fresca
+  * Costa Blanca Bistro
+  * Don Raul
   * Cafe Ena
   * Rincon 38
   * La Ceiba
@@ -50,16 +58,15 @@
 **Russ Klein**
 
   * Meritage
-  * Brasserie Zentral
-  * Foreign Legion
 
 **Jester Concepts**
 
-  * Maple Tavern
   * Borough/Parlour
-  * Coup d'Etat
   * Marche
   * Monello
+  * Constantine
+  * Mercado
+  * PS Steak
 
 **Isaac Becker and Nancy St. Pierre**
 
@@ -71,9 +78,9 @@
 
   * Union
   * Crave
-  * Urban Eatery
-  * Salsa a la Salsa
   * BLVD Kitchen and Bar
+  * Piggy Bank
+  * Burger Burger
 
 **Tom and Molly Broder**
 
@@ -97,11 +104,6 @@
   * Annie's Parlour
   * Runyons
 
-**Landon Schoenefeld**
-
-  * Haute Dish
-  * Nighthawks
-
 **Sushi Avenue**
 
   * Masu
@@ -111,7 +113,7 @@
 
   * Psycho Suzi's
   * Saint Sabrina's
-  * Donny Dirk's Zombie Den
+  * Mr. Steven's Snuggery
   * Betty Danger's Country Club
 
 **Alex Roberts**
@@ -129,7 +131,6 @@
 **Jason Jenny**
 
   * Stella's Fish Cafe
-  * Lucia's
 
 **Break Bread Hospitality Group**
 
@@ -140,13 +141,13 @@
 
 **Sameh Wadi**
 
-  * Saffron
   * World Street Kitchen
+  * Milk Jam Creamery
+  * Grand Catch
 
 **Matthew Bickford**
 
   * Icehouse
-  * Be'Wiched
 
 **Somhap Enterprises**
 
@@ -156,30 +157,36 @@
 **Charles Lodge**
 
   * Ginger Hop
-  * Chiang Mai Thai
 
 **Theros Restaurante Group**
 
   * St. Clair Broiler
-  * Rudolph's
 
 **Matty O'Reilly**
 
-  * Aster Cafe
+  * Bar Brigade
   * Republic
   * 318 Cafe
   * Dan Kelly's
+
+**Jeff Arundel**
+
+  * Aster Cafe
+  * Jefe Urban Hacienda
+  * The Hideaway
 
 **Ann Kim**
 
   * Pizzeria Lola
   * Hello Pizza
+  * Young Joni
 
 **Mike Brown/James Winberg/Bob Gerken**
 
   * The Rookery
   * Travail
   * Pig Ate My Pizza
+  * MN BBQ Company
 
 **Nick Rancone/Thomas Boemer**
 
@@ -199,17 +206,41 @@
   * Woodbury Cafe
   * Paisano's
 
-**Paul Dzubnar**
+**Hightop Hospitality**
 
-  * Scena Tavern
   * Sweet Peas Public House
   * Green Mill (27 restaurants)
-  * Town Hall Brewery
   * Crooked Pint Ale House
-  * Twisted Fork Grille
+  * Harriet's Inn
 
 **Michael McDermott**
 
   * Rojo Mexican grill 
-  * Ling & Louie's 
   * Nanne's Steakhouse 
+
+**Soignee Hospitality**
+
+  * Spoon and Stable
+  * Demi
+  * Bellecour
+
+**Daniel del Prado**
+
+  * Martina
+  * Colita
+
+**Steven Brown**
+
+  * St. Genevive
+  * Tilia
+
+**Tim Niver**
+
+  * Mucci's
+  * St. Dinette
+
+**Christina Nguyen**
+
+ * Hola Arepa
+ * Hai Hai
+
