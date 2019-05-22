@@ -244,3 +244,13 @@
  * Hola Arepa
  * Hai Hai
 
+**Madison Restaurant Group**
+
+ * The Fitz
+ * Handsome Hog
+ * Ox Cart Arcade
+ * Pearl & the Theif
+ * Grey Duck Tavern
+ * Public Kitchen + Bar
+ * Green Lantern
+
